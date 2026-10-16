@@ -1,0 +1,8 @@
+{
+  "name": "Chemical Tank Calibration Recorder",
+  "description": "บันทึกและแก้ไขข้อมูลการสอบเทียบถังเก็บสารเคมี (Calibration Tank) ซิงค์ลง Google Sheet โฟลเดอร์ Cal-Tank 001 ใน Google Drive พร้อมดูข้อมูลเก่าได้โดยไม่ต้องล็อกอิน และแจ้งเตือนผ่าน Gmail",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
